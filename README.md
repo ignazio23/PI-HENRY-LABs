@@ -71,5 +71,5 @@ Para poder visualizar el sitio web y probar las API diseñadas, deberemos estar 
     
 ## Video de Demostración ##
 
-Aquí les dejaré adjunto un link a un drive donde cargaré el video de demostración de lo desarrollado: https://drive.google.com/drive/folders/1go50jrYtdgrH5CTFMTgqiisGVdnO5OMH?usp=sharing
+Aquí les dejaré adjunto un link a un drive donde cargaré el video de demostración de lo desarrollado - https://drive.google.com/drive/folders/1go50jrYtdgrH5CTFMTgqiisGVdnO5OMH?usp=sharing
 
